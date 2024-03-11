@@ -1,4 +1,4 @@
-#include "d:/Desktop/all.h"
+#include "d:/Desktop/all.h"//万能头文件
 #define M 3
 using namespace std;
 class STU {
